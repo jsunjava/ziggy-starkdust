@@ -1,3 +1,4 @@
+Start
 name: Test
 
 on:
@@ -73,3 +74,4 @@ jobs:
           zig version
           make build-integration-test
           ./zig-out/bin/integration_test
+          Finish
